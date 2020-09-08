@@ -9,8 +9,9 @@ I have used **Node.js** for my server side rendering, **React** as my frontend, 
 4. Go to the cloned repository.
 5. Run ```npm install``` from your terminal to install all the dependencies
 6. Run ```nodemon server.js``` from you terminal to start the server.
-7. Go to the clients directory and run ```npm start``` to start the React app.
-8. Open ```localhost:3000``` on your browser.
+7. Go to the clients directory and run ```npm install```.
+8. run ```npm start``` to start the React app.
+9. Open ```localhost:3000``` on your browser.
 
 
 ## Assumptions made for this application
