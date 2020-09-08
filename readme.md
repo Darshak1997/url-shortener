@@ -1,4 +1,4 @@
-# Shoretening a URL:
+# Shortening a URL:
 
 I have used **Node.js** for my server side rendering, **React** as my frontend, **MongoDB** as my database and **Redis** to cache the shortened URLs.
 
