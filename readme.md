@@ -20,7 +20,7 @@ I have used **Node.js** for my server side rendering, **React** as my frontend, 
 2. Given a URL, our service should generate a shorter and unique alias of it.
 3. When users access a short link, our service should redirect them to the original link.
 4. The system should be highly available.
-5. URL redirections hould happen in real-time with minimal latency. This is why I have used Redis to cache our data. 
+5. URL redirections should happen in real-time with minimal latency. This is why I have used Redis to cache our data. 
 6. Shortened links should not be predictable.
 7. Our system would be read heavy, this is the reason of me using a NoSQL database. 
 
